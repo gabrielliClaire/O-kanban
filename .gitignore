@@ -1,0 +1,11 @@
+# NPM
+node_modules/
+
+# Env
+.env
+
+# Dossier dist
+dist/
+
+# MacOS
+.DS_Store
